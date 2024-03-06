@@ -1,1 +1,1 @@
-# household-genie
+# household-genie-backend
